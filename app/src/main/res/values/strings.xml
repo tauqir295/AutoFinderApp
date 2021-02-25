@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AutoFinderApp</string>
+    <string name="selected_manufacturer">Selected manufacturer %s</string>
+    <string name="selected_main_type">Selected manufacturer %s main-type %s</string>
+    <string name="selected_date">Selected manufacturer %s main-type %s date %s</string>
+    <string name="no_data_found">No data found</string>
+    <string name="api_failed">API Failed</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="ok">OK</string>
+    <string name="main_type_query_hint">Please enter keyword </string>
+    <string name="manufacturer_title">Manufacturer List</string>
+    <string name="main_types_title">Main Type List</string>
+    <string name="date_title">Build Date List</string>
+    <string name="summary_title">Summary</string>
+</resources>
