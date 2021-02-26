@@ -17,7 +17,10 @@
 9. network-security-config inspired from https://developer.android.com/training/articles/security-config
 10. Generic error handling
 11. Different layout for odd and even rows
-
+12. Use of Repository layer is not done. However, I have done similar code here. 
+  a. https://github.com/tauqir295/Clean-Network-Layer/tree/main/network
+  b. https://github.com/tauqir295/CatGalleryImageSelector/tree/main/cat-gallery/src/main/java/com/gallery/cat/network
+  
 #Enhancement
 1. Can add configuration structure. 
 2. Can pass base url from host app via configuration. 
